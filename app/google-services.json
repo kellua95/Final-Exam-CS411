@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721596340567",
+    "project_id": "abed-sammour-sc411-finalexam",
+    "storage_bucket": "abed-sammour-sc411-finalexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721596340567:android:4398e3a9dcbd356f828612",
+        "android_client_info": {
+          "package_name": "com.example.mytodolistapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721596340567-pgota1bd5n4rmhif2fcjqrqof2drfsp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQU55MV7MVpzaI67nT_MtYIZ06TyjB8do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721596340567-pgota1bd5n4rmhif2fcjqrqof2drfsp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
